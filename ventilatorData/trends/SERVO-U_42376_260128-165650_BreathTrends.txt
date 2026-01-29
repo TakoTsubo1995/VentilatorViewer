@@ -1,0 +1,18 @@
+﻿[RECRUITMENT]
+Fecha	28/01/26 16:56:50
+Archivo	SERVO-U_42376_260128-165650_BreathTrends.txt
+Ventilador	42376 
+Sistema	4.4 
+Versión	4.4.0.78be7bed 
+Estado de control preliminar	Pasado
+Última ejecución de control preliminar	28/01/26 16:52:29
+Date format	dd/MM/yy
+Language setting	es_ES
+Decimal separator	POINT
+==========
+Hora inicio maniobra reclutamiento	15:56:50
+Hora final maniobra reclutamiento	16:56:50
+Intervalo de tiempo	60 Minutos
+
+[DATA]
+Tiempo	Cdin. (ml/cmH2O)	Pei (cmH2O)	PEEP (cmH2O)	Vce. (ml)	Vci (ml)	Pactividad (cmH2O)	I:E ()	F resp. ()	VcCO2 ()	IE ()	PL ei (cmH2O)	PL ee (cmH2O)	PL activ. (cmH2O)

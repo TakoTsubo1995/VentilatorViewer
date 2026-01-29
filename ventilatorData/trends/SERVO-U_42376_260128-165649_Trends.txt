@@ -1,0 +1,16 @@
+﻿[TRE]
+Fecha	28/01/26 16:56:49
+Archivo	SERVO-U_42376_260128-165649_Trends.txt
+Ventilador	42376 
+Sistema	4.4 
+Versión	4.4.0.78be7bed 
+Estado de control preliminar	Pasado
+Última ejecución de control preliminar	28/01/26 16:52:29
+Date format	dd/MM/yy
+Language setting	es_ES
+Decimal separator	POINT
+==========
+Tiempo	F.espont.	F resp.	Vci (ml)	Vce. (ml)	Ppico (cmH2O)	Ppausa (cmH2O)	Pmedia (cmH2O)	PEEP (cmH2O)	VMe esp. (l/m)	V.m.i. (l/m)	VMe (l/m)	Vc/PBW	Vc/BW	Pactividad (cmH2O)	Edipico (uV)	Edimín. (uV)	CPAP (cmH2O)	Fuga	Conc. de O2 (%)	etCO2 (mmHg)	VcCO2	VCO2	Apoyo Σ	Apoyo %	Cdin. (ml/cmH2O)	Cestática (ml/cmH2O)	IE	Elastancia (cmH2O/l)	Ri (cmH2O/l/s)	Re (cmH2O/l/s)	Trab r vent (J/l)	Trab. r. pac (J/l)	P 0,1 (cmH2O)	SBI	Flujoef (l/m)	Flujo (l/m)	VENT_MODE	AUTOMODE_ON_OFF	NIV_ON_OFF	SYSTEM_MODE
+28/01/26 16:54:38	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	VNI, Presión soporte	-	Conectado	STANDBY_MODE
+28/01/26 16:55:38	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	VNI, Presión soporte	-	Conectado	STANDBY_MODE
+28/01/26 16:56:38	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	VNI, Presión soporte	-	Conectado	STANDBY_MODE

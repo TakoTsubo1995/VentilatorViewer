@@ -1,0 +1,170 @@
+﻿[LOG]
+Fecha	28/01/26 17:25:10
+Archivo	SERVO-U_42376_260128-172504_Logs.txt
+Ventilador	42376 
+Sistema	4.4 
+Versión	4.4.0.78be7bed 
+Estado de control preliminar	Pasado
+Última ejecución de control preliminar	28/01/26 16:52:29
+Date format	dd/MM/yy
+Language setting	es_ES
+Decimal separator	POINT
+==========
+17:24:31, 28/01/26	Alarma	Alarma: Frecuencia respiratoria baja
+17:24:31, 28/01/26	Alarma	Alarma: Volumen minuto espirado bajo
+17:24:17, 28/01/26	Funciones	Prolongación espiración activada
+17:23:56, 28/01/26	Funciones	Prolongación inspiración activada
+17:23:23, 28/01/26	Alarma	Alarma: Frecuencia respiratoria baja
+17:23:20, 28/01/26	Alarma	Alarma: Volumen minuto espirado bajo
+17:23:13, 28/01/26	Funciones	Prolongación espiración activada
+17:22:54, 28/01/26	Funciones	Prolongación inspiración activada
+17:22:33, 28/01/26	Alarma	Alarma: Frecuencia respiratoria baja
+17:22:28, 28/01/26	Alarma	Alarma: Volumen minuto espirado bajo
+17:22:18, 28/01/26	Funciones	Prolongación espiración activada
+17:22:03, 28/01/26	Funciones	Alarmas presilenciadas
+17:22:03, 28/01/26	Funciones	Prolongación inspiración activada
+17:21:56, 28/01/26	Funciones	Silenciado de alarmas desconectado
+17:21:22, 28/01/26	Alarma	Alarma: Frecuencia respiratoria baja
+17:20:56, 28/01/26	Funciones	Prolongación espiración activada
+17:20:49, 28/01/26	Alarma	Alarma: Volumen minuto espirado bajo
+17:20:27, 28/01/26	Funciones	Alarmas presilenciadas
+17:20:27, 28/01/26	Funciones	Prolongación inspiración activada
+17:19:34, 28/01/26	Alarma	Alarma: Presión en las vías respiratorias alta
+17:19:30, 28/01/26	Alarma	Alarma: Volumen minuto espirado bajo
+17:19:26, 28/01/26	Alarma	Alarma: Presión en las vías respiratorias alta
+17:19:14, 28/01/26	Alarma	Alarma: Presión en las vías respiratorias alta
+17:19:02, 28/01/26	Funciones	Alarmas silenciadas
+17:18:59, 28/01/26	Alarma	Alarma: Presión en las vías respiratorias alta
+17:18:57, 28/01/26	Funciones	Silenciado de alarmas desconectado
+17:18:50, 28/01/26	Cambio del parámetro	PEEP ajustado a 5.0 cmH<sub>2</sub>O
+17:18:00, 28/01/26	Alarma	Alarma: Presión en las vías respiratorias alta
+17:17:21, 28/01/26	Cambio del parámetro	PEEP ajustado a 13 cmH<sub>2</sub>O
+17:17:01, 28/01/26	Alarma	Alarma: Restricción de administración de presión
+17:16:57, 28/01/26	Funciones	Alarmas silenciadas
+17:16:55, 28/01/26	Alarma	Alarma: Presión en las vías respiratorias alta
+17:16:28, 28/01/26	Funciones	Silenciado de alarmas desconectado
+17:16:06, 28/01/26	Cambio del parámetro	Tiempo de pausa ajustado a 10 %
+17:15:58, 28/01/26	Funciones	Alarmas presilenciadas
+17:15:58, 28/01/26	Cambio del parámetro	Régimen ventilatorio ajustado a Volumen controlado
+17:15:58, 28/01/26	Cambio del parámetro	Tiempo de pausa ajustado a 15 %
+17:15:58, 28/01/26	Cambio del parámetro	Volumen corriente ajustado a 400 ml
+17:15:58, 28/01/26	Cambio del parámetro	PEEP ajustado a 8.0 cmH<sub>2</sub>O
+17:15:58, 28/01/26	Cambio del parámetro	Automode Desconectado
+17:14:45, 28/01/26	Alarma	Alarma: Circuito de paciente desconectado
+17:13:11, 28/01/26	Funciones	Silenciado de alarmas desconectado
+17:13:10, 28/01/26	Cambio del parámetro	Nivel de presión sobre PEEP ajustado a 5 cmH<sub>2</sub>O
+17:13:06, 28/01/26	Cambio del parámetro	PS sobre PEEP ajustada a 0 cmH<sub>2</sub>O 
+17:12:58, 28/01/26	Alarma	Alarma: Restricción de administración de presión
+17:12:51, 28/01/26	Alarma	Alarma: Restricción de administración de presión
+17:12:41, 28/01/26	Funciones	Alarmas presilenciadas
+17:12:41, 28/01/26	Cambio del parámetro	Régimen ventilatorio ajustado a Presión controlada
+17:12:41, 28/01/26	Cambio del parámetro	Tiempo de apnea máximo ajustado a 7 s
+17:12:41, 28/01/26	Cambio del parámetro	Final de Inspiración ajustado a 30 %
+17:12:41, 28/01/26	Cambio del parámetro	PEEP ajustado a 5.0 cmH<sub>2</sub>O
+17:12:41, 28/01/26	Cambio del parámetro	PS sobre PEEP ajustada a 17 cmH<sub>2</sub>O 
+17:12:41, 28/01/26	Cambio del parámetro	Nivel de presión sobre PEEP ajustado a 0 cmH<sub>2</sub>O
+17:12:41, 28/01/26	Cambio del parámetro	Automode Conectado
+17:11:43, 28/01/26	Funciones	Silenciado de alarmas desconectado
+17:09:43, 28/01/26	Funciones	Alarmas silenciadas
+17:09:39, 28/01/26	Alarma	Alarma: Presión en las vías respiratorias alta
+17:04:58, 28/01/26	Funciones	Silenciado de alarmas desconectado
+17:04:27, 28/01/26	Cambio del límite de alarma	Límite de alarma de PEEP baja ajustado a 2 cmH<sub>2</sub>O
+17:04:27, 28/01/26	Cambio del límite de alarma	Límite de alarma de PEEP alta ajustado a 15 cmH<sub>2</sub>O
+17:04:27, 28/01/26	Cambio del límite de alarma	Límite de alarma de pres. en vías respiratorias ajustado a 40 cmH<sub>2</sub>O
+17:03:59, 28/01/26	Funciones	RECLUT. AUTOM. completado, Cdin=20.37 ml/cmH<sub>2</sub>O, Pactividad=19.09 cmH<sub>2</sub>O
+17:03:47, 28/01/26	Cambio del parámetro	Régimen ventilatorio ajustado a Volumen controlado
+17:03:47, 28/01/26	Cambio del parámetro	Tiempo de pausa ajustado a 15 %
+17:03:47, 28/01/26	Cambio del parámetro	Volumen corriente ajustado a 400 ml
+17:03:47, 28/01/26	Cambio del parámetro	Relación I:E ajustada a 1:2 
+17:03:47, 28/01/26	Cambio del parámetro	Frecuencia respiratoria ajustada a 15 resp/min
+17:03:47, 28/01/26	Cambio del parámetro	PEEP ajustado a 8.0 cmH<sub>2</sub>O
+17:03:47, 28/01/26	Cambio del parámetro	Triger de flujo ajustado a 1.0 l/m
+17:03:00, 28/01/26	Cambio del parámetro	PEEP ajustado a 25 cmH<sub>2</sub>O
+17:03:00, 28/01/26	Cambio del parámetro	Nivel de presión sobre PEEP ajustado a 15 cmH<sub>2</sub>O
+17:02:58, 28/01/26	Funciones	Alarmas silenciadas
+17:02:55, 28/01/26	Alarma	Alarma: Volumen minuto espirado bajo
+17:02:35, 28/01/26	Cambio del parámetro	PEEP ajustado a 21 cmH<sub>2</sub>O
+17:02:35, 28/01/26	Cambio del parámetro	Nivel de presión sobre PEEP ajustado a 16 cmH<sub>2</sub>O
+17:02:11, 28/01/26	Funciones	Silenciado de alarmas desconectado
+17:02:10, 28/01/26	Cambio del parámetro	PEEP ajustado a 16 cmH<sub>2</sub>O
+17:02:10, 28/01/26	Cambio del parámetro	Nivel de presión sobre PEEP ajustado a 17 cmH<sub>2</sub>O
+17:01:45, 28/01/26	Cambio del parámetro	Relación I:E ajustada a 1:1 
+17:01:45, 28/01/26	Cambio del parámetro	Frecuencia respiratoria ajustada a 12 resp/min
+17:01:45, 28/01/26	Cambio del parámetro	PEEP ajustado a 12 cmH<sub>2</sub>O
+17:01:45, 28/01/26	Cambio del parámetro	Nivel de presión sobre PEEP ajustado a 17 cmH<sub>2</sub>O
+17:01:45, 28/01/26	Cambio del parámetro	Triger de presión ajustado a -20 cmH<sub>2</sub>O
+17:01:41, 28/01/26	Cambio del límite de alarma	Límite de alarma de PEEP baja ajustado a 4 cmH<sub>2</sub>O
+17:01:41, 28/01/26	Cambio del límite de alarma	Límite de alarma de PEEP alta ajustado a 30 cmH<sub>2</sub>O
+17:01:41, 28/01/26	Cambio del límite de alarma	Límite de alarma de pres. en vías respiratorias ajustado a 45 cmH<sub>2</sub>O
+17:01:41, 28/01/26	Funciones	Alarmas presilenciadas
+17:01:41, 28/01/26	Cambio del parámetro	Régimen ventilatorio ajustado a Presión controlada
+17:01:41, 28/01/26	Cambio del parámetro	Nivel de presión sobre PEEP ajustado a 18 cmH<sub>2</sub>O
+17:01:41, 28/01/26	Funciones	Referencia RECLUT. AUTOM., Cdin=21.82 ml/cmH<sub>2</sub>O, Pactividad=17.40 cmH<sub>2</sub>O
+17:01:32, 28/01/26	Funciones	RECLUT. AUTOM. iniciado
+17:01:26, 28/01/26	Cambio del parámetro	PEEP tras RECLUT. ajustadas a 8.0 cmH<sub>2</sub>O
+17:01:26, 28/01/26	Cambio del parámetro	Respiraciones con Pmáx ajustadas a 10 
+17:01:26, 28/01/26	Cambio del parámetro	Respiraciones/paso ajustadas a 5 
+17:01:26, 28/01/26	Cambio del parámetro	ΔPEEP/paso ajustado como 5 cmH<sub>2</sub>O
+17:01:26, 28/01/26	Cambio del parámetro	Pmáx ajustado a 40 cmH<sub>2</sub>O
+17:01:26, 28/01/26	Cambio del parámetro	Frecuencia respiratoria ajustada a 12 resp/min
+17:01:26, 28/01/26	Cambio del parámetro	PEEPmáx ajustado a 25 cmH<sub>2</sub>O
+17:00:11, 28/01/26	Cambio del parámetro	Triger de flujo ajustado a 1.0 l/m
+16:59:59, 28/01/26	Cambio del parámetro	Frecuencia respiratoria ajustada a 15 resp/min
+16:59:31, 28/01/26	Cambio del parámetro	Tiempo de pausa ajustado a 15 %
+16:59:12, 28/01/26	Cambio del parámetro	Frecuencia respiratoria ajustada a 11 resp/min
+16:59:05, 28/01/26	Cambio del límite de alarma	Límite superior de alarma de frec. resp. ajustado a 77 resp/min
+16:58:57, 28/01/26	Alarma	Alarma: Frecuencia respiratoria alta
+16:58:55, 28/01/26	Funciones	Tipo de presión ajustado a Total en SERVO COMPASS
+16:58:50, 28/01/26	Funciones	Tipo de presión ajustado a Impulso en SERVO COMPASS
+16:58:50, 28/01/26	Funciones	Silenciado de alarmas desconectado
+16:58:42, 28/01/26	Cambio del parámetro	Peso corporal ajustado a 85 kg
+16:58:38, 28/01/26	Cambio del parámetro	VC estimado en 423 ml
+16:58:38, 28/01/26	Cambio del parámetro	Peso corporal predicho calculado para 70 kg
+16:58:38, 28/01/26	Cambio del parámetro	Estatura del paciente ajustada a 175 cm
+16:58:32, 28/01/26	Cambio del parámetro	Sexo del paciente ajustado a Masculino
+16:58:23, 28/01/26	Alarma	Alarma: Frecuencia respiratoria alta
+16:58:20, 28/01/26	Cambio del parámetro	Régimen ventilatorio ajustado a Volumen controlado
+16:58:20, 28/01/26	Cambio del parámetro	VC/PBW ajustado a 6.0 ml/kg
+16:58:20, 28/01/26	Cambio del parámetro	Tiempo de pausa ajustado a 10 %
+16:58:20, 28/01/26	Cambio del parámetro	Volumen corriente ajustado a 400 ml
+16:58:20, 28/01/26	Cambio del parámetro	Nivel de incremento de O<sub>2</sub> ajustado a +30 %
+16:58:20, 28/01/26	Cambio del parámetro	Concentración de O<sub>2</sub> ajustada a 40 % 
+16:58:20, 28/01/26	Cambio del parámetro	Patrón de flujo VC por defecto establecido en 100 %
+16:58:20, 28/01/26	Cambio del parámetro	Adaptación de flujo VC por defecto establecida en Conectado
+16:58:20, 28/01/26	Cambio del parámetro	Ajuste de adaptación de flujo VC establecido en Desactivada
+16:58:20, 28/01/26	Cambio del parámetro	Ajuste de patrón de flujo VC establecido en Desactivada
+16:58:20, 28/01/26	Cambio del parámetro	Retardo inspiratorio ajustado a 5 %
+16:58:20, 28/01/26	Cambio del parámetro	Relación I:E ajustada a 1:2 
+16:58:20, 28/01/26	Cambio del parámetro	Frecuencia respiratoria ajustada a 15 resp/min
+16:58:20, 28/01/26	Cambio del parámetro	PEEP ajustado a 8.0 cmH<sub>2</sub>O
+16:58:20, 28/01/26	Cambio del parámetro	Triger de flujo ajustado a 1.6 l/m
+16:58:20, 28/01/26	Cambio del parámetro	Nebulización continua ajustada a Desconectado
+16:58:20, 28/01/26	Cambio del parámetro	Tiempo de nebulización ajustado a 10 min
+16:58:20, 28/01/26	Cambio del parámetro	Nebulizador Desconectado
+16:58:20, 28/01/26	Cambio del parámetro	Automode Desconectado
+16:58:20, 28/01/26	Cambio del parámetro	Funcionalidad de desconexión VNI ajustada a Flujo bajo
+16:58:20, 28/01/26	Cambio del parámetro	Compensación del circuito es Conectado
+16:58:20, 28/01/26	Cambio del parámetro	Nivel de incremento máx. de O<sub>2</sub> ajustado a Conectado
+16:58:20, 28/01/26	Cambio del parámetro	Estatura del paciente ajustada a 170 cm
+16:58:20, 28/01/26	Cambio del parámetro	Peso corporal ajustado a 75 kg
+16:58:20, 28/01/26	Cambio del parámetro	Tipo de ventilación por defecto ajustada a Invasive
+16:58:20, 28/01/26	Cambio del parámetro	Categoría de paciente seleccionada a Adulto
+16:58:20, 28/01/26	Cambio del parámetro	Compensación de fugas ajustada a Desactivada
+16:58:20, 28/01/26	Cambio del parámetro	Sexo del paciente ajustado a No seleccionado
+16:58:20, 28/01/26	Cambio del parámetro	Opción para utilizar 0(s) como tiempo de pausa predeterminado ajustada a Desconectado
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite sup. alarma de volumen corriente espirado ajustado a 4000 ml
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite inf. alarma de volumen corriente espirado ajustado a 50 ml
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite de alarma de PEEP alta ajustado a 15 cmH<sub>2</sub>O
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite de alarma de PEEP baja ajustado a 2 cmH<sub>2</sub>O
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite inferior de alarma de frec. resp. ajustado a 5 resp/min
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite superior de alarma de frec. resp. ajustado a 30 resp/min
+16:58:20, 28/01/26	Cambio del límite de alarma	Alarma inferior de concentración de O<sub>2</sub> ajustada a 35 %
+16:58:20, 28/01/26	Cambio del límite de alarma	Alarma superior de concentración de O<sub>2</sub> ajustada a 45 %
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite inferior de alarma de volumen minuto ajustado a 5.0 l/m
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite superior de alarma de volumen minuto ajustado a 40.0 l/m
+16:58:20, 28/01/26	Cambio del límite de alarma	Límite de alarma de pres. en vías respiratorias ajustado a 40 cmH<sub>2</sub>O
+16:58:20, 28/01/26	Funciones	Alarmas presilenciadas
+16:58:20, 28/01/26	Funciones	Se inició la ventilación
+16:58:16, 28/01/26	Funciones	Tipo de presión ajustado a Total en SERVO COMPASS
+16:58:16, 28/01/26	Funciones	Presón de impulso ajustada a 15 cmH<sub>2</sub>O en SERVO COMPASS
+16:58:16, 28/01/26	Funciones	Presión total ajustada a 30 cmH<sub>2</sub>O en SERVO COMPASS

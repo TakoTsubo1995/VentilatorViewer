@@ -1,0 +1,15 @@
+﻿[LOG]
+Fecha	28/01/26 16:56:49
+Archivo	SERVO-U_42376_260128-165644_Logs.txt
+Ventilador	42376 
+Sistema	4.4 
+Versión	4.4.0.78be7bed 
+Estado de control preliminar	Pasado
+Última ejecución de control preliminar	28/01/26 16:52:29
+Date format	dd/MM/yy
+Language setting	es_ES
+Decimal separator	POINT
+==========
+16:53:44, 28/01/26	Funciones	Tipo de presión ajustado a Total en SERVO COMPASS
+16:53:44, 28/01/26	Funciones	Presón de impulso ajustada a 15 cmH<sub>2</sub>O en SERVO COMPASS
+16:53:44, 28/01/26	Funciones	Presión total ajustada a 30 cmH<sub>2</sub>O en SERVO COMPASS
