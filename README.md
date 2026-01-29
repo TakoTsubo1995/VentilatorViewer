@@ -1,3 +1,14 @@
+# Who i am ?
+
+Good afternoon, my name is Cristóbal, aka "Takotsubo." 
+I am a Spanish nurse who has worked for nine years in critical care units. I am currently studying a master’s in extracorporeal circulation in cardiac surgery, and because of that I am re‑studying physiological, anatomical, and physical fundamentals. By nature I like to investigate and tinker on my own, and while studying respiratory physiology—and because I didn’t understand certain concepts—I ended up “creating” this visualizer that uses MATLAB as the basis for processing the data. First of all I want to say a few things:
+
+- I have very basic programming knowledge; I did all the programming using Claude Code and Antigravity. I wish I had time to learn to program properly, but honestly I neither have the time nor do I think I would do it better; I get by by seeing how things work and poking in areas where the AI gets lost.
+- I don’t know how to use GitHub; it seems super counterintuitive to me, but I will try to update it following the way I see it being used.
+Now about the project itself:
+
+It is a basic viewer that uses data from the Maquet Servo‑U from my unit. Currently there is a set of test data in the ventiladordata folder, but frankly it is quite poor because it was made with an artificial lung. In any case, the use and handling of the viewer are described in the README. I know there is a lot of room for improvement in the graphical interface and in features like the database, but little by little. I am publishing it in case someone finds it of interest.
+Thank you very much.
 
 # SERVO-U Respiratory Data Management System
 
